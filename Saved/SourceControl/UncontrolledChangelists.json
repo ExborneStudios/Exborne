@@ -4,9 +4,7 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"/run/media/platinumlucario/Storage/source/repos/Exborne 5.5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
-			]
+			"files": []
 		}
 	]
 }
